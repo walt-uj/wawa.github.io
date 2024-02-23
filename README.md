@@ -1,1 +1,1 @@
-# wawa.github.io
+Base de code pour le cours HTML CSS

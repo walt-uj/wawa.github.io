@@ -1,0 +1,19 @@
+/* style.css */
+
+/* Titres h1 avec la police Roboto */
+h1 {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+/* Titres h2 avec la police Lobster */
+h2 {
+    font-family: 'Lobster', cursive;
+    text-align: center;
+}
+
+
+p,
+h1{
+	color: darkblue;
+}
